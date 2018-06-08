@@ -1,4 +1,4 @@
-# How To write A How-to Article
+# How To Write A How-To Article On The Internet
 ## By GeneralHugs013
 ### Basic Know-How
 **1.** To write a how to article, you want to be very knowledgeable on the subject you're writing about. if you're not, that's alright! Read *step 2*.
@@ -19,7 +19,7 @@ You see? If you use a mix of words you know, and find some confusing ones, then 
 
 *With GeneralHugs013's vast plethora of knowledge concerning the back and its anatomy, you can overcome back pain forever. Read this captivating article on identifying the causes of back pain, and you'll no longer have to worry about it, no matter what.*
 
-See, all you have to do is market your article so someone will actually take the timse to read it.
+See, all you have to do is market your article so someone will actually take the time to read it. That's the way you need to starts all articles in general.
 
 **2.** At this point in the article, you should start either putting in either what you know about your topic, or you shouls start figuring out how to phrase the mumbo-jumbo. See my excerpt from *Basic Know-How* for an example. 
 
@@ -31,9 +31,11 @@ The reason that this part of a how-to article needs to be talked about separatel
 
 **4.** An observant reader may have noticed by now that my primary concern as far as writing these how-to articles is people who aren't particularly knowledgeable on the subjects they are writing on. Well, my advivce on the body of the article for more honest folks is that you write up some relevant information, focusing on one subtopic per paragrah. A common format for these more reliable articles is five-paragraph.
 
-**5.** The last part of any good article, no matter what type or relevancy, is the conclusion. This is the point in the article where you start wrapping up with your article. On estrategy I would like to suggest before we move on, is referencing another article in the end of yours. Another of your articles, obviously, because it's bad to give your competitors backlinks. Here's an example from my artcle on back pain:
+**5.** 
+
+**6.** The last part of any good article, no matter what type or relevancy, is the conclusion. This is the point in the article where you start wrapping up with your article. One strategy I would like to suggest before we move on, is referencing another article in the end of yours. Another of your articles, obviously, because it's bad to give your competitors backlinks. Here's an example from my artcle on back pain:
 
 *In short, there are many parts of the back that can contribute to back pain. Now that you've read my article on identifying the causes of back pain, you'll be able to do the first step in the troubleshooting process of eliminating back pain: identifying the cause. If you would like to know more about back pain, please read my articles on Eliminating Back Pain and my article on Cervical lumbaritis Awareness. Thank you all for reading my article! - By GeneralHugs013*
 
-See how in the end of my conclusion paragraph, I left off where a reader still wants to know more about the subject? In my example, the reader is most likely looking for a way to eliminate back pain, and they just happened ti find this article first. This is how references and refernce links work.
+See how in the end of my conclusion paragraph, I left off where a reader still wants to know more about the subject? In my example, the reader is most likely looking for a way to eliminate back pain, and they just happened ti find this article first. This is how article references and refernce links work. This is how i end most of my articles, as it keeps the readeron your site
 
